@@ -1,17 +1,3 @@
-% Course: CSCI 251, Section 3
-% Student Name: Will Tribble
-% Student ID: 10540462
-% Programming Assignment 1 Homework
-% Due Date: Sept. 14, 2015
-
-% In keeping with the Honor Code of UM, I have neither given nor received
-% assistance from anyone other than the instructor.
-
-% Program Description: A kicker is kicking a soccer ball at the goal.
-% Taking user input for the distance from the goal, the seed the ball is
-% kicked, and the angle it is kicked with, calculate the flight time of the
-% ball, the range it travels, and whether the shot is a miss or a score.
-
 % Clear screens
 clc
 clear
